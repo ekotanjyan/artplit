@@ -1,0 +1,554 @@
+# Translation of Themes - Poseidon in Russian
+# This file is distributed under the same license as the Themes - Poseidon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 13:24:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Poseidon\n"
+
+#. Description of the plugin/theme
+msgid "Poseidon is an elegant designed WordPress theme featuring a splendid fullscreen image slideshow. The clean typography and spacious white layout makes it great to share your stories. You can use the theme as simple blog or easily create a news website with the widget-based Magazine Homepage template."
+msgstr "Poseidon — это элегантная тема для WordPress с великолепным полноэкранным слайдером изображений. Благодаря аккуратным шрифтам и просторной разметке, тема идеально подходит для ваших публикаций. Тему можно использовать как для простого блога, так и для новостного сайта на основе шаблона «Главная страница журнала»."
+
+#. Theme Name of the plugin/theme
+msgid "Poseidon"
+msgstr "Poseidon"
+
+#: inc/theme-info.php:153
+msgid "Review Poseidon"
+msgstr "Обзор Poseidon"
+
+#: inc/customizer/functions/custom-controls.php:123 inc/theme-info.php:134
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/customizer/functions/custom-controls.php:115 inc/theme-info.php:127
+msgid "Recommended Plugins"
+msgstr "Рекомендуемые плагины"
+
+#: inc/customizer/functions/custom-controls.php:99 inc/theme-info.php:110
+msgid "Pro Version Add-on"
+msgstr "Дополнения Pro-версии"
+
+#: inc/customizer/customizer.php:189 inc/theme-info.php:50
+#: inc/theme-info.php:153
+msgid "https://wordpress.org/support/theme/poseidon/reviews/?filter=5"
+msgstr "https://wordpress.org/support/theme/poseidon/reviews/?filter=5"
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:27
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/template-tags.php:390
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr "Предыдущие записи"
+
+#: inc/template-tags.php:391
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr "Следующие записи"
+
+#: inc/template-tags.php:337
+msgctxt "post navigation"
+msgid "Next Post:"
+msgstr "Следующая запись:"
+
+#: inc/template-tags.php:336
+msgctxt "post navigation"
+msgid "Previous Post:"
+msgstr "Предыдущая запись:"
+
+#: inc/customizer/sections/customizer-post.php:90
+msgid "Excerpt More Text"
+msgstr "Текст после отрывка"
+
+#: inc/customizer/sections/customizer-post.php:173
+msgid "Single Posts"
+msgstr "Записи"
+
+#: inc/customizer/customizer.php:62
+msgid "Display Site Title"
+msgstr "Отображать название сайта"
+
+#: template-magazine.php:31
+msgid "Please go to Appearance &#8594; Widgets and add at least one widget to the \"Magazine Homepage\" widget area. You can use the Magazine Posts widgets to set up the theme like the demo website."
+msgstr "Перейдите на страницу «Внешний вид» \t «Виджеты» и добавьте хотя бы один виджет в область шаблона «Главная страница журнала». Чтобы настроить тему так же, как на демонстрационном сайте, можно воспользоваться виджетом «Записи журнала»."
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: searchform.php:12 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "Искать:"
+
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/widgets/widget-magazine-posts-columns.php:409
+msgid "Highlight first post (big image + excerpt)"
+msgstr "Выделить первую запись (большое изображение + отрывок)"
+
+#: inc/widgets/widget-magazine-posts-grid.php:24
+msgid "Magazine Posts: Grid (%s)"
+msgstr "Записи журнала: Сетка (%s)"
+
+#: inc/widgets/widget-magazine-posts-grid.php:27
+msgid "Displays your posts from a selected category in a grid layout. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "Отображает записи из выбранной рубрики в виде сетки. Bспользуйте этот виджет только в области для виджетов макета «Главная страница журнала»."
+
+#: inc/widgets/widget-magazine-posts-grid.php:434
+msgid "Grid Layout:"
+msgstr "Разметка в виде сетки:"
+
+#: inc/widgets/widget-magazine-posts-grid.php:436
+msgid "Two Columns Grid"
+msgstr "Сетка в две колонки"
+
+#: inc/widgets/widget-magazine-posts-grid.php:437
+msgid "Three Columns Grid"
+msgstr "Сетка в три колонки"
+
+#: inc/widgets/widget-magazine-posts-grid.php:450
+msgid "Display post excerpt"
+msgstr "Отображать отрывок записи"
+
+#: inc/widgets/widget-magazine-posts-boxed.php:456
+msgid "Post Layout:"
+msgstr "Разметка записи:"
+
+#: inc/widgets/widget-magazine-posts-boxed.php:458
+msgid "Horizontal Arrangement"
+msgstr "Горизонтальное расположение"
+
+#: inc/widgets/widget-magazine-posts-boxed.php:459
+msgid "Vertical Arrangement"
+msgstr "Вертикальное расположение"
+
+#: inc/widgets/widget-magazine-posts-columns.php:24
+msgid "Magazine Posts: 2 Columns (%s)"
+msgstr "Записи журнала: 2 колонки (%s)"
+
+#: inc/widgets/widget-magazine-posts-columns.php:27
+msgid "Displays your posts from two selected categories. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "Отображает ваши записи из двух выбранных рубрик. Используйте этот виджет ТОЛЬКО в области для виджетов шаблона «Главная страница журнала»."
+
+#: inc/widgets/widget-magazine-posts-columns.php:359
+msgid "Left Category Title:"
+msgstr "Заголовок рубрики слева:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:365
+msgid "Left Category:"
+msgstr "Рубрика слева:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:380
+msgid "Right Category Title:"
+msgstr "Заголовок рубрики справа:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:386
+msgid "Right Category:"
+msgstr "Рубрика справа:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:401
+#: inc/widgets/widget-magazine-posts-grid.php:442
+msgid "Number of posts:"
+msgstr "Количество записей:"
+
+#: inc/widgets/widget-magazine-posts-boxed.php:441
+#: inc/widgets/widget-magazine-posts-grid.php:419
+msgid "Category:"
+msgstr "Категория:"
+
+#: inc/theme-info.php:57
+msgid "Getting Started with %s"
+msgstr "Начало работы с %s"
+
+#: inc/theme-info.php:67
+msgid "You need help to setup and configure this theme? We got you covered with an extensive theme documentation on our website."
+msgstr "Вам нужна помощь по установке и настройке темы? На нашем сайте вы найдёте подробную документацию."
+
+#: inc/theme-info.php:71
+msgid "View %s Documentation"
+msgstr "Посмотреть документацию по %s"
+
+#: inc/theme-info.php:80
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "%s использует штатный интерфейс настройки тем. Нажмите кнопку «Настроить тему», чтобы приступить к настройке."
+
+#: inc/theme-info.php:83
+msgid "Customize Theme"
+msgstr "Настроить тему"
+
+#: inc/theme-info.php:103
+msgid "Get more features"
+msgstr "Получите больше функций"
+
+#: inc/theme-info.php:150
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%1$s создана компанией %2$s. Если вам нравится эта тема, %3$s :)"
+
+#: inc/theme-info.php:152
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/"
+
+#: inc/theme-info.php:153
+msgid "rate it"
+msgstr "оцените её"
+
+#: inc/widgets/widget-magazine-posts-boxed.php:24
+msgid "Magazine Posts: Boxed (%s)"
+msgstr "Записи журнала: Блоки (%s)"
+
+#: inc/widgets/widget-magazine-posts-boxed.php:27
+msgid "Displays your posts from a selected category in a boxed layout. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "Отображает ваши записи из выбранной категории в блочной разметке. Используйте этот виджет ТОЛЬКО в области для виджетов макеты «Главная страница журнала»."
+
+#: inc/widgets/widget-magazine-posts-boxed.php:382
+#: inc/widgets/widget-magazine-posts-columns.php:302
+#: inc/widgets/widget-magazine-posts-grid.php:357
+msgid "View all posts from category %s"
+msgstr "Посмотреть все записи в рубрике %s"
+
+#: inc/widgets/widget-magazine-posts-boxed.php:435
+#: inc/widgets/widget-magazine-posts-grid.php:413
+msgid "Title:"
+msgstr "Название:"
+
+#: inc/customizer/customizer.php:178 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "Демонстрация темы"
+
+#: inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "О Теме"
+
+#: inc/template-tags.php:405
+msgid "Powered by %1$s and %2$s."
+msgstr "Сайт работает на %1$s и %2$s."
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "Добро пожаловать в %1$s %2$s"
+
+#: inc/template-tags.php:317 template-parts/content.php:23
+msgid "Read more"
+msgstr "Читать полностью"
+
+#: inc/template-tags.php:262
+msgid "View all posts by %s"
+msgstr "Просмотр всех записей на %s"
+
+#: inc/customizer/sections/customizer-upgrade.php:19
+msgid "More Features"
+msgstr "Больше функций"
+
+#: inc/customizer/sections/customizer-slider.php:139
+msgid "Slider Speed (in ms)"
+msgstr "Скорость слайдера (в мс)"
+
+#: inc/customizer/sections/customizer-slider.php:125
+msgid "Fade Effect"
+msgstr "Эффект затухания"
+
+#: inc/customizer/sections/customizer-slider.php:124
+msgid "Slide Effect"
+msgstr "Эффект слайдера"
+
+#: inc/customizer/sections/customizer-slider.php:117
+msgid "Slider Animation"
+msgstr "Способ перехода слайдера"
+
+#: inc/customizer/sections/customizer-slider.php:99
+msgid "Number of Posts"
+msgstr "Количество записей"
+
+#: inc/customizer/sections/customizer-slider.php:82
+msgid "Slider Category"
+msgstr "Категория для слайдера"
+
+#: inc/customizer/sections/customizer-slider.php:64
+msgid "Show Slider on posts page"
+msgstr "Отображать слайдер на странице записей"
+
+#: inc/customizer/sections/customizer-slider.php:49
+msgid "Show Slider on Magazine Homepage"
+msgstr "Отображать слайдер на главной странице журнала"
+
+#: inc/customizer/sections/customizer-slider.php:35
+msgid "Activate Post Slider"
+msgstr "Активировать слайдер записей"
+
+#. #-#-#-#-#  poseidon.pot (Poseidon 1.1.8)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customizer/sections/customizer-slider.php:19
+msgid "Post Slider"
+msgstr "Слайдер записей"
+
+#: inc/customizer/sections/customizer-post.php:204
+msgid "Display post navigation on single posts"
+msgstr "Отображать навигацию в одиночных записях"
+
+#: inc/customizer/sections/customizer-post.php:188
+msgid "Display post tags on single posts"
+msgstr "Отображать метки в одиночных записях"
+
+#: inc/customizer/sections/customizer-post.php:155
+msgid "Display post categories"
+msgstr "Отображать рубрики записи"
+
+#: inc/customizer/sections/customizer-post.php:139
+#: inc/widgets/widget-magazine-posts-boxed.php:473
+#: inc/widgets/widget-magazine-posts-columns.php:423
+#: inc/widgets/widget-magazine-posts-grid.php:464
+msgid "Display post author"
+msgstr "Отображать автора записи"
+
+#: inc/customizer/sections/customizer-post.php:123
+#: inc/widgets/widget-magazine-posts-boxed.php:466
+#: inc/widgets/widget-magazine-posts-columns.php:416
+#: inc/widgets/widget-magazine-posts-grid.php:457
+msgid "Display post date"
+msgstr "Отображать дату записи"
+
+#: inc/customizer/sections/customizer-post.php:108
+msgid "Post Meta"
+msgstr "О записи"
+
+#: inc/customizer/sections/customizer-post.php:72
+msgid "Excerpt Length"
+msgstr "Длина текста"
+
+#: inc/customizer/sections/customizer-post.php:58
+msgid "Show post excerpts"
+msgstr "Отображать отрывки записей"
+
+#: inc/customizer/sections/customizer-post.php:57
+msgid "Show full posts"
+msgstr "Отображать полные записи"
+
+#: inc/customizer/sections/customizer-post.php:51
+msgid "Post length on archives"
+msgstr "Длина записей в архивах"
+
+#: inc/customizer/sections/customizer-post.php:34
+msgid "Title above Latest Posts"
+msgstr "Заголовок над последними записями"
+
+#: inc/customizer/sections/customizer-post.php:19
+msgid "Post Settings"
+msgstr "Настройки для записей"
+
+#: inc/customizer/sections/customizer-general.php:115
+msgid "Show featured image as header image"
+msgstr "Отображать миниатюру записи как изображения заголовка"
+
+#: inc/customizer/sections/customizer-general.php:109
+msgid "Post Layout (single post)"
+msgstr "Разметка записи (одиночная запись)"
+
+#: inc/customizer/sections/customizer-general.php:95
+#: inc/customizer/sections/customizer-general.php:117
+msgid "Hide featured image"
+msgstr "Скрыть миниатюру записи"
+
+#: inc/customizer/sections/customizer-general.php:94
+#: inc/customizer/sections/customizer-general.php:116
+msgid "Show featured image above content"
+msgstr "Отображать миниатюру записи над контентом"
+
+#: inc/customizer/sections/customizer-general.php:93
+msgid "Show featured image beside content"
+msgstr "Отображать миниатюру записи возле контента"
+
+#: inc/customizer/sections/customizer-general.php:87
+msgid "Post Layout (archive pages)"
+msgstr "Разметка записи (страницы архива)"
+
+#: inc/customizer/sections/customizer-general.php:70
+msgid "Enable sticky header feature"
+msgstr "Включить функцию закрепления заголовка"
+
+#: inc/customizer/sections/customizer-general.php:56
+msgid "Sticky Header"
+msgstr "Заголовок закреплен"
+
+#: inc/customizer/sections/customizer-general.php:41
+msgid "Right Sidebar"
+msgstr "Боковая панель справа"
+
+#: inc/customizer/sections/customizer-general.php:40
+msgid "Left Sidebar"
+msgstr "Боковая панель слева"
+
+#: inc/customizer/sections/customizer-general.php:34
+msgid "Theme Layout"
+msgstr "Разметка темы"
+
+#: inc/customizer/sections/customizer-general.php:19
+msgid "General Settings"
+msgstr "Общие Настройки"
+
+#: inc/customizer/functions/custom-controls.php:118 inc/theme-info.php:130
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "Расширьте функциональность вашего сайта на WordPress с помощью наших бесплатных и лёгких в использовании плагинов."
+
+#: inc/customizer/functions/custom-controls.php:107 inc/theme-info.php:117
+msgid "Learn more about %s Pro"
+msgstr "Узнать больше о %s Pro"
+
+#: inc/customizer/functions/custom-controls.php:106 inc/theme-info.php:116
+msgid "https://themezee.com/addons/poseidon-pro/"
+msgstr "https://themezee.com/addons/poseidon-pro/"
+
+#: inc/customizer/functions/custom-controls.php:102 inc/theme-info.php:113
+msgid "Purchase the %s Pro Add-on and get additional features and advanced customization options."
+msgstr "Купите %s Pro и получите дополнительную функциональность и расширенные возможности настройки."
+
+#: inc/customizer/functions/custom-controls.php:65
+#: inc/widgets/widget-magazine-posts-boxed.php:444
+#: inc/widgets/widget-magazine-posts-columns.php:368
+#: inc/widgets/widget-magazine-posts-columns.php:389
+#: inc/widgets/widget-magazine-posts-grid.php:422
+msgid "All Categories"
+msgstr "Все категории"
+
+#: inc/customizer/default-options.php:42
+#: inc/customizer/sections/customizer-post.php:27
+msgid "Latest Posts"
+msgstr "Свежие посты"
+
+#: inc/customizer/customizer.php:190 inc/theme-info.php:50
+msgid "Rate this theme"
+msgstr "Оценить эту тему"
+
+#: inc/customizer/customizer.php:184 inc/theme-info.php:49
+#: inc/theme-info.php:64
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: inc/customizer/customizer.php:183 inc/theme-info.php:49
+#: inc/theme-info.php:70
+msgid "https://themezee.com/docs/poseidon-documentation/"
+msgstr "\thttps://themezee.com/docs/poseidon-documentation/"
+
+#: inc/customizer/customizer.php:172 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "Страница темы"
+
+#. #-#-#-#-#  poseidon.pot (Poseidon 1.1.8)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: inc/customizer/customizer.php:171 inc/theme-info.php:47
+msgid "https://themezee.com/themes/poseidon/"
+msgstr "https://themezee.com/themes/poseidon/"
+
+#: inc/customizer/customizer.php:168 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "Ссылки темы"
+
+#: inc/customizer/customizer.php:113
+msgid "Hide header image on front page"
+msgstr "Скрыть изображение заголовка на главной странице"
+
+#: inc/customizer/customizer.php:96
+msgid "Header Image Link"
+msgstr "Ссылка с изображения заголовка"
+
+#: inc/customizer/customizer.php:37
+msgid "Background"
+msgstr "Фон блоков"
+
+#: inc/customizer/customizer.php:31 inc/theme-info.php:77
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: inc/back-compat.php:41 inc/back-compat.php:51 inc/back-compat.php:64
+msgid "%1$s requires at least WordPress version %2$s. You are running version %3$s. Please upgrade and try again."
+msgstr "%1$s требует WordPress версии %2$s или выше. У вас версия %3$s. Пожалуйста, обновите WordPress и попробуйте ещё раз."
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:117
+msgid "Appears on Magazine Homepage template only. You can use the Magazine Posts widgets here."
+msgstr "Появляется только на шаблоне «Главная страница журнала». Здесь можно использовать виджеты «Magazine Posts» здесь."
+
+#. #-#-#-#-#  poseidon.pot (Poseidon 1.1.8)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: functions.php:115
+msgid "Magazine Homepage"
+msgstr "Главная страница журнала"
+
+#: functions.php:107
+msgid "Appears on posts and pages except the full width template."
+msgstr "Появляется в записях и на страницах, кроме одноколоночного шаблона."
+
+#: functions.php:105
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:42
+msgid "Main Navigation"
+msgstr "Основная навигация"
+
+#: comments.php:59
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Комментарии запрещены."
+
+#: comments.php:30
+msgid "% comments"
+msgstr "% комментария(ев)"
+
+#: comments.php:30
+msgid "One comment"
+msgstr "﻿Один комментарий"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском или одной из ссылок ниже."
+
+#: 404.php:17
+msgid "404: Page not found"
+msgstr "﻿404: страница не найдена"
+
+#. Author URI of the plugin/theme
+msgid "https://themezee.com"
+msgstr "https://themezee.com"
+
+#. Author of the plugin/theme
+msgid "ThemeZee"
+msgstr "ThemeZee"
