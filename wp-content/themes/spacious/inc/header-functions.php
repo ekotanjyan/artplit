@@ -12,12 +12,14 @@
 function spacious_header_image_markup( $html, $header, $attr ) {
 	$output = '';
 	$header_image = get_header_image();
+	//$header_image = ["http://artplit.ru/wp-content/uploads/2017/03/pp.jpg","http://artplit.ru/wp-content/uploads/2017/03/Ow.jpg"];
+
 
 	if( ! empty( $header_image ) ) {
-		$output .= '<div class="addr header-image row " style="width:'. get_custom_header()->width .';background:url('. esc_url( $header_image ) . ') ;background-size: cover;
+		$output .= '<div id="f_p_h" class="addr header-image row " style="width:'. get_custom_header()->width .';background-size: cover;
     background-repeat: no-repeat;box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.8);margin-right: 0px;margin-left: 0px;">							
   							<div class="col-md-4">
-								<img src="http://artplit.ru/wp-content/uploads/2017/03/Anush-small-logo.png" style="max-width: 95%;height: auto;vertical-align: top;margin-bottom: 0px;" />
+								<img src="/wp-content/uploads/2017/03/Anush-small-logo.png" style="max-width: 95%;height: auto;vertical-align: top;margin-bottom: 0px;" />
   							</div>
   							<div class="col-md-2"></div>
   							<div class="col-md-6 r-side">
